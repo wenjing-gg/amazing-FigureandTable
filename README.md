@@ -24,7 +24,19 @@ tables/
 
 ### 模型图 (model)
 
-*（暂无收藏）*
+#### WSI-Agents 总览图
+
+![WSI-Agents 总览图](figures/model/lyu-2025-wsi-agents-overview.png)
+
+- **论文**：*WSI-Agents: A Collaborative Multi-Agent System for Multi-Modal Whole Slide Image Analysis*（arXiv 2025）
+- **链接**：[arXiv:2507.14680](https://arxiv.org/abs/2507.14680)
+
+#### PathGen 多智能体协作流水线图
+
+![PathGen 多智能体协作流水线](figures/model/sun-2025-pathgen-multiagent.png)
+
+- **论文**：*PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration*（ICLR 2025）
+- **链接**：[arXiv:2407.00203](https://arxiv.org/abs/2407.00203)
 
 ### 机制图 (mechanism)
 
