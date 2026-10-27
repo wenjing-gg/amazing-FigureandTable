@@ -21,7 +21,12 @@ tables/
 
 ### 范式图 (paradigm)
 
-*（暂无收藏）*
+#### PathNavigate 范式对比图
+
+![PathNavigate 范式对比图](figures/paradigm/yang-2026-pathnavigate-paradigm.png)
+
+- **论文**：*PathNavigate: A Training-Free Pathology Agent with Surprise-Guided Scan and Shared Slide Memory for Whole-Slide Image VQA*（arXiv 2026）
+- **链接**：[arXiv:2605.23559](https://arxiv.org/abs/2605.23559)
 
 ### 模型图 (model)
 
@@ -52,6 +57,20 @@ tables/
 
 - **论文**：*Effective Semi-Supervised Medical Image Segmentation With Probabilistic Representations and Prototype Learning*（TMI 2025）
 - **链接**：[DOI 10.1109/TMI.2024.3484166](https://doi.org/10.1109/TMI.2024.3484166)
+
+#### PathNavigate 总览图
+
+![PathNavigate 总览图](figures/model/yang-2026-pathnavigate-overview.png)
+
+- **论文**：*PathNavigate: A Training-Free Pathology Agent with Surprise-Guided Scan and Shared Slide Memory for Whole-Slide Image VQA*（arXiv 2026）
+- **链接**：[arXiv:2605.23559](https://arxiv.org/abs/2605.23559)
+
+#### UTCS 模型架构图
+
+![UTCS 模型架构图](figures/model/zhang-2025-utcs-architecture.png)
+
+- **论文**：*UTCS: Effective Unsupervised Temporal Community Search with Pre-training of Temporal Dynamics and Subgraph Knowledge*（arXiv 2025）
+- **链接**：[arXiv:2506.02784](https://arxiv.org/abs/2506.02784)
 
 ### 动机图 (motivation)
 
