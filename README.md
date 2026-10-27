@@ -8,7 +8,7 @@
 figures/
 ├── paradigm/     # 范式图
 ├── model/        # 模型图
-└── mechanism/    # 机制图
+└── motivation/   # 动机图
 tables/
 ├── comparison/   # 对比实验表
 └── ablation/     # 消融实验表
@@ -45,9 +45,21 @@ tables/
 - **论文**：*Learning Generalized Medical Image Representation by Decoupled Feature Queries*（TPAMI 2025）
 - **链接**：[IEEE 11122336](https://ieeexplore.ieee.org/document/11122336)
 
-### 机制图 (mechanism)
+#### PRPL 方法总览图
 
-*（暂无收藏）*
+![PRPL 方法总览图](figures/model/yuan-2025-prpl-overview.png)
+
+- **论文**：*Effective Semi-Supervised Medical Image Segmentation With Probabilistic Representations and Prototype Learning*（TMI 2025）
+- **链接**：[DOI 10.1109/TMI.2024.3484166](https://doi.org/10.1109/TMI.2024.3484166)
+
+### 动机图 (motivation)
+
+#### PRPL 动机图
+
+![PRPL 动机图](figures/motivation/yuan-2025-prpl-motivation.png)
+
+- **论文**：*Effective Semi-Supervised Medical Image Segmentation With Probabilistic Representations and Prototype Learning*（TMI 2025）
+- **链接**：[DOI 10.1109/TMI.2024.3484166](https://doi.org/10.1109/TMI.2024.3484166)
 
 ---
 
