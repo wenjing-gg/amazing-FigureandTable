@@ -8,7 +8,8 @@
 figures/
 ├── paradigm/     # 范式图
 ├── model/        # 模型图
-└── motivation/   # 动机图
+├── motivation/   # 动机图
+└── results/      # 结果图
 tables/
 ├── comparison/   # 对比实验表
 └── ablation/     # 消融实验表
@@ -60,6 +61,15 @@ tables/
 
 - **论文**：*Effective Semi-Supervised Medical Image Segmentation With Probabilistic Representations and Prototype Learning*（TMI 2025）
 - **链接**：[DOI 10.1109/TMI.2024.3484166](https://doi.org/10.1109/TMI.2024.3484166)
+
+### 结果图 (results)
+
+#### PAM 定量分析图
+
+![PAM 定量分析图](figures/results/chen-2025-pam-quantitative.png)
+
+- **论文**：*PAM: a propagation-based model for segmenting any 3D objects across multi-modal medical images*（npj Digital Medicine 2025）
+- **链接**：[DOI 10.1038/s41746-025-02087-y](https://doi.org/10.1038/s41746-025-02087-y)
 
 ---
 
