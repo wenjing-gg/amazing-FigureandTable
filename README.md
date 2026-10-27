@@ -72,6 +72,10 @@ tables/
 - **论文**：*UTCS: Effective Unsupervised Temporal Community Search with Pre-training of Temporal Dynamics and Subgraph Knowledge*（arXiv 2025）
 - **链接**：[arXiv:2506.02784](https://arxiv.org/abs/2506.02784)
 
+#### 扩散超分双引导框架图（来源未知）
+
+![扩散超分双引导框架图](figures/model/diffusion-sr-dual-guidance.png)
+
 ### 动机图 (motivation)
 
 #### PRPL 动机图
