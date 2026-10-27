@@ -38,12 +38,12 @@ tables/
 - **论文**：*PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration*（ICLR 2025）
 - **链接**：[arXiv:2407.00203](https://arxiv.org/abs/2407.00203)
 
-#### DFQ 框架图
+#### DFQ+ 框架图
 
-![DFQ 框架图](figures/model/bi-2024-dfq-framework.png)
+![DFQ+ 框架图](figures/model/bi-2025-dfq-framework.png)
 
-- **论文**：*Learning Generalized Medical Image Segmentation from Decoupled Feature Queries*（AAAI 2024）
-- **链接**：[AAAI 27839](https://ojs.aaai.org/index.php/AAAI/article/view/27839)
+- **论文**：*Learning Generalized Medical Image Representation by Decoupled Feature Queries*（TPAMI 2025）
+- **链接**：[IEEE 11122336](https://ieeexplore.ieee.org/document/11122336)
 
 ### 机制图 (mechanism)
 
