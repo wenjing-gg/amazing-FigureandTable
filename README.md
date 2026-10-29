@@ -76,6 +76,13 @@ tables/
 
 ![扩散超分双引导框架图](figures/model/diffusion-sr-dual-guidance.png)
 
+#### BrainGPT 总览图
+
+![BrainGPT 总览图](figures/model/li-2025-braingpt-overview.png)
+
+- **论文**：*Towards a Holistic Framework for Multimodal Large Language Models in Three-dimensional Brain CT Report Generation*（Nature Communications 2025）
+- **链接**：[arXiv:2407.02235](https://arxiv.org/abs/2407.02235)
+
 ### 动机图 (motivation)
 
 #### PRPL 动机图
@@ -84,6 +91,10 @@ tables/
 
 - **论文**：*Effective Semi-Supervised Medical Image Segmentation With Probabilistic Representations and Prototype Learning*（TMI 2025）
 - **链接**：[DOI 10.1109/TMI.2024.3484166](https://doi.org/10.1109/TMI.2024.3484166)
+
+#### AD 原型对比与形态测量总览图（来源未知）
+
+![AD 原型对比与形态测量总览图](figures/motivation/ad-mri-pet-prototype-comparison.png)
 
 ### 结果图 (results)
 
