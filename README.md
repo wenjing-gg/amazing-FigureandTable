@@ -83,6 +83,22 @@ tables/
 - **论文**：*Towards a Holistic Framework for Multimodal Large Language Models in Three-dimensional Brain CT Report Generation*（Nature Communications 2025）
 - **链接**：[arXiv:2407.02235](https://arxiv.org/abs/2407.02235)
 
+#### BrainGFM 总览图
+
+![BrainGFM 总览图](figures/model/he-2026-braingfm-overview.png)
+
+- **论文**：*A generative foundation model for computational brain imaging*（arXiv 2026）
+- **链接**：[arXiv:2611.00265](https://arxiv.org/abs/2611.00265)
+- **说明**：问题→数据→方法→应用→评测→验证六面板叙事总览，1.3M 切片预训练 + 48 下游任务 + 6 中心 4,796 例卒中临床验证
+
+#### BrainGFM 架构图
+
+![BrainGFM 架构图](figures/model/he-2026-braingfm-architecture.png)
+
+- **论文**：*A generative foundation model for computational brain imaging*（arXiv 2026）
+- **链接**：[arXiv:2611.00265](https://arxiv.org/abs/2611.00265)
+- **说明**：VQ 视觉 tokenizer 脑域适配 + next-scale 自回归生成预训练 + LoRA 下游适配（数据合成 / 图像增强）
+
 ### 动机图 (motivation)
 
 #### PRPL 动机图
@@ -104,6 +120,38 @@ tables/
 
 - **论文**：*PAM: a propagation-based model for segmenting any 3D objects across multi-modal medical images*（npj Digital Medicine 2025）
 - **链接**：[DOI 10.1038/s41746-025-02087-y](https://doi.org/10.1038/s41746-025-02087-y)
+
+#### BrainGFM 任务对齐数据合成结果图
+
+![BrainGFM 任务对齐数据合成结果图](figures/results/he-2026-braingfm-synthesis.png)
+
+- **论文**：*A generative foundation model for computational brain imaging*（arXiv 2026）
+- **链接**：[arXiv:2611.00265](https://arxiv.org/abs/2611.00265)
+- **说明**：28 个预测任务的少样本 vs 全监督对比，雷达图 + mean-worst 散点 + 逐数据集增益棒棒糖图
+
+#### BrainGFM 图像增强结果图
+
+![BrainGFM 图像增强结果图](figures/results/he-2026-braingfm-enhancement.png)
+
+- **论文**：*A generative foundation model for computational brain imaging*（arXiv 2026）
+- **链接**：[arXiv:2611.00265](https://arxiv.org/abs/2611.00265)
+- **说明**：20 个增强任务（低场 MRI / 低剂量 CT / 无对比剂 MRI），PSNR 雷达图 + 排名热力表 + 定性对比 + 增益分解
+
+#### BrainGFM 盲法读者研究与人机协作结果图
+
+![BrainGFM 盲法读者研究与人机协作结果图](figures/results/he-2026-braingfm-reader-study.png)
+
+- **论文**：*A generative foundation model for computational brain imaging*（arXiv 2026）
+- **链接**：[arXiv:2611.00265](https://arxiv.org/abs/2611.00265)
+- **说明**：合成 FLAIR vs 真实图像的五维盲评（BrainGFM≈真实），人机协作使放射科医生卒中分型准确率相对提升 14%
+
+#### BrainGFM 消融与分析图
+
+![BrainGFM 消融与分析图](figures/results/he-2026-braingfm-ablation.png)
+
+- **论文**：*A generative foundation model for computational brain imaging*（arXiv 2026）
+- **链接**：[arXiv:2611.00265](https://arxiv.org/abs/2611.00265)
+- **说明**：合成数据 / 后训练数据 scaling 曲线，特征分布 t-SNE，跨模态生成样例与多尺度生成过程可视化
 
 ---
 
