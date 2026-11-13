@@ -28,6 +28,13 @@ tables/
 - **论文**：*PathNavigate: A Training-Free Pathology Agent with Surprise-Guided Scan and Shared Slide Memory for Whole-Slide Image VQA*（arXiv 2026）
 - **链接**：[arXiv:2605.23559](https://arxiv.org/abs/2605.23559)
 
+#### 医学 VQA 视觉定位范式对比图
+
+![医学 VQA 视觉定位范式对比图](figures/paradigm/medical-vqa-grounding-paradigm.png)
+
+- **论文**：未知（Counterfactual Mask Learning + Query MoE 医学 VQA，四范式对比动机图）
+- **链接**：待补充
+
 ### 模型图 (model)
 
 #### WSI-Agents 总览图
