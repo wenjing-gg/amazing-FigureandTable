@@ -119,6 +119,14 @@ tables/
 
 ![AD 原型对比与形态测量总览图](figures/motivation/ad-mri-pet-prototype-comparison.png)
 
+#### C-Graph 动机与方法对比图
+
+![C-Graph 动机与方法对比图](figures/motivation/bo-2026-c-graph-motivation.png)
+
+- **论文**：*Contrastive Graph Modeling for Cross-Domain Few-Shot Medical Image Segmentation*（IEEE TMI 2026）
+- **链接**：[arXiv:2512.21683](https://arxiv.org/abs/2512.21683)
+- **亮点**：黄绿色配色 · 立方体虚线边框
+
 ### 结果图 (results)
 
 #### PAM 定量分析图
